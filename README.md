@@ -22,7 +22,7 @@ To run the scripts and analyses in this repository, you will need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Gas-Well-Flow-Analysis-and-Property-Evaluation.git
+   git clone https://github.com/Ikenna1011/Gas-Well-Flow-Analysis-and-Property-Evaluation.git
    ```
 2. Navigate to the project directory:
    ```bash
